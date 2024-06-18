@@ -968,7 +968,7 @@ section,
   position: absolute;
   right: 50px;
   font-size: 24px;
-  top: calc(50% - 14px);
+  top: calc(0% - 0px);
   color: color-mix(in srgb, var(--default-color), transparent 30%);
   transition: 0.3s;
   line-height: 0;
